@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://metrics.lecoq.io/kewde?template=classic&isocalendar=1&languages=1&lines=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FParis">
+  <img src="https://github.com/kewde/kewde/assets/13770485/cf37fda2-82a5-4612-85db-7d19344838e9">
 </p>
